@@ -1,0 +1,36 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "重新学习 leetcode，代码与习题详解",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoeMoeFish/leetcode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MoeMoeFish/leetcode/issues"
+  },
+  "homepage": "https://github.com/MoeMoeFish/leetcode#readme",
+  "devDependencies": {
+    "bufferutil": "^4.0.1",
+    "canvas": "^2.6.1",
+    "eslint": "^6.8.0",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-plugin-import": "^2.20.1",
+    "eslint-plugin-jest": "^23.8.2",
+    "eslint-plugin-node": "^11.0.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1",
+    "jest": "^25.1.0",
+    "typescript": "^3.8.3",
+    "utf-8-validate": "^5.0.2"
+  }
+}
