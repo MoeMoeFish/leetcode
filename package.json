@@ -8,7 +8,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "unitone": "jest --config jest.conf.js"
+    "testone": "jest --config jest.conf.js"
   },
   "repository": {
     "type": "git",
